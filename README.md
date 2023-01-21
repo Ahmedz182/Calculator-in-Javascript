@@ -2,7 +2,8 @@
 A simple Calculator build in HTML, CSS and JavaScript
 
 ## <a href="https://ahmedz182.github.io/Calculator-in-Javascript">Live Demo</a>
-![Screenshot 2023-01-21 124447](https://user-images.githubusercontent.com/35397403/213849459-1a56c569-92e9-40db-9f78-de4b3fd46b5e.jpg)
+![Screenshot 2023-01-21 134532](https://user-images.githubusercontent.com/35397403/213859460-bf1a73d0-fdf6-4b7c-b740-4efa1bf844ed.jpg)
+
 
 ![Github](https://www.pngmart.com/files/22/GitHub-PNG-Picture.png)
 
