@@ -1,0 +1,120 @@
+
+*{
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+}
+
+body{
+    background-color: #00457e;
+    text-align: center;
+    
+
+}
+
+.num{
+   
+    background-color: #00457eb7;
+    color: white;
+    border: none;
+    border-radius: 10%;
+    width: 50px;
+    margin: 3px;
+    padding: 4px;
+    height: 50px;
+    
+
+}
+.num:hover{
+    background-color: #00457ed4;
+    font-weight: bolder;
+
+}
+.equal1{
+    background-color: #00457eb7;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    width: 110px;
+    margin: 3px;
+    height: 50px;
+}
+.equal1:hover{
+    background-color: #00457ed4;
+    font-weight: bolder;
+  
+}
+.fun{
+    background-color: rgba(255, 99, 71, 0.668);
+    color: white;
+    border: none;
+    border-radius: 10%;
+    width: 50px;
+    margin: 3px;
+    padding: 4px;
+    height: 50px;
+}
+.fun :hover{
+    background-color: rgba(255, 99, 71, 0.816);
+    font-weight: bolder;
+ 
+}
+
+.equal{
+    background-color: rgba(255, 71, 92, 0.668);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    width: 110px;
+    margin: 3px;
+    height: 50px;
+}
+.equal:hover{
+    background-color: rgba(255, 71, 92, 0.816);
+    font-weight: bolder;
+  
+}
+.form{
+ 
+    display: inline-flexbox;
+width: 250px;
+height: 410px;
+background-color: white;
+border-radius: 5%;
+padding: 10px;
+
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+
+.output{
+    background-color:gainsboro;
+    color: black;
+    width: 240px;
+   border: none;
+    height: 110px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    padding-left: 10px;
+    font-weight: bolder;
+}
+.output1{
+    background-color:gainsboro;
+    color: black;
+    width: 230px;
+   border: none;
+    height: 50px;
+    margin-bottom: 5px;
+    font-weight: bolder;
+}
+#result{
+ text-align: end;
+ margin-right: 10px;
+}
+p{
+
+}
